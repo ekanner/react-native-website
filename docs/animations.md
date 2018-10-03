@@ -13,7 +13,7 @@ The [`Animated`](animated.md) API is designed to make it very easy to concisely 
 
 `Animated` exports four animatable component types: `View`, `Text`, `Image`, and `ScrollView`, but you can also create your own using `Animated.createAnimatedComponent()`.
 
-For example, a container view that fades in when it is mounted may look like this:
+For example, a container view that fades in when it is mdfounted may look like this:
 
 ```SnackPlayer
 import React from 'react';
